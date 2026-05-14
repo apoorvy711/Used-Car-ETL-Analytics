@@ -40,7 +40,7 @@ This project demonstrates practical skills in:
 - Jupyter Notebook
 - VS Code
 - Git & GitHub
-
+- Power BI
 ---
 
 # 📂 Project Structure
